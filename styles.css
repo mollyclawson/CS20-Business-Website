@@ -1,0 +1,84 @@
+body {
+  background-color: #ffeaec;
+  color: #584b53;
+  font-family: "Trebuchet MS", sans-serif;
+  padding-bottom: 75px;
+}
+
+h1.name {
+  color: #9d5c63;
+  background-color: #eecfd4;
+  font-family: "Snell Roundhand", cursive;
+  font-size: 60px;
+  text-align: center;
+  margin: 0;
+  width: 100%;
+}
+
+h1.name a {
+  text-decoration: none;
+  color: #9d5c63;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+h3 {
+  font-size: 28px;
+}
+
+h4 {
+  font-size: 24px;
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.8;
+}
+
+.nav {
+  background-color: #584b53;
+}
+
+.nav ul {
+  margin: 0;
+  padding: 0;
+  height: 85px;
+  width: 350px;
+  margin-left: auto;
+  margin-right: auto;
+  box-sizing: border-box;
+}
+
+.nav li {
+  font-size: 24px;
+  font-family: "Trebuchet MS", sans-serif;
+  list-style-type: none;
+  text-align: center;
+  display: inline;
+  line-height: 85px;
+  width: 150px;
+  padding: 0 25px;
+  box-sizing: border-box;
+}
+
+.nav li a {
+  color: #eecfd4;
+  text-decoration: none;
+  line-height: 2;
+}
+
+.nav li a:hover {
+  color: #9d5c63;
+}
+
+.about {
+  width: 80%;
+  padding-left: 10%;
+}
+
+.img-caption {
+  font-size: 12px;
+  text-align: center;
+}
